@@ -1,4 +1,3 @@
-python
 # ============================================
 # Pneumonia Detection - Flask Backend
 # Deployment Ready Version
